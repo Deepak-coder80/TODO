@@ -1,1 +1,2 @@
-# create a todo app with fast api
+
+from fastapi import  FastAPI
