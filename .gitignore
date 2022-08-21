@@ -1,1 +1,4 @@
-todovenv
+todovenv/
+.idea/
+keys.py
+__pycache__
