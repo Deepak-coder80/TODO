@@ -19,6 +19,7 @@ pip == 22.2.2
 pydantic == 1.9.2 
 python - dotenv == 0.20.0 
 python - multipart == 0.0.5
+psycopg2-binary = 2.9.3
  PyYAML == 6.0 
  requests == 2.28.1 
  setuptools == 63.2.0 
