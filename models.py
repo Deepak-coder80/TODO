@@ -17,6 +17,7 @@ class Users(Base):
 
     todos = relationship("Todos", back_populates='owner')
 
+
 # table
 class Todos(Base):
     __tablename__ = 'todos'
